@@ -1,0 +1,16 @@
+{
+  "name": "credit_card-1lvl",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "credit-card-input-mask": "^3.0.1",
+    "input": "^1.0.1",
+    "redom": "^4.3.0"
+  }
+}
